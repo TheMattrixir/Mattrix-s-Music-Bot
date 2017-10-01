@@ -1,1 +1,1 @@
-worker: node bot.js  Mattrix-s-Music-Bot
+worker: node bot.js
